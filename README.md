@@ -64,8 +64,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [CyberSec — AI Chatbot](https://github.com/jhanvijyant/CyberSec-AI-Chatbot) | Full-stack AI chatbot for real-time cybersecurity guidance covering OWASP Top 10, phishing & malware | Python · Flask · Gemini API · Bootstrap |
-| [StegaVision — Forensics Tool](https://github.com/jhanvijyant/StegaVision) | Detects & extracts steganographically hidden data from video files using LSB analysis | Python · OpenCV · FFmpeg · Tkinter |
+| [CyberSec — AI Chatbot](https://github.com/jhanvijyant/cyber-bot-) | Full-stack AI chatbot for real-time cybersecurity guidance covering OWASP Top 10, phishing & malware | Python · Flask · Gemini API · Bootstrap |
+| [StegaVision — Forensics Tool](https://github.com/jhanvijyant/stegavision)| Detects & extracts steganographically hidden data from video files using LSB analysis | Python · OpenCV · FFmpeg · Tkinter |
 | [PassGuardian — Password Analyzer](https://github.com/jhanvijyant/PassGuardian-Password-Strength-Checker) | Real-time password auditing tool aligned with NIST SP 800-63B; checks against 800M+ breached hashes | Python · HaveIBeenPwned API · Tkinter |
 | [Prodigy Infotech Internship Tasks](https://github.com/jhanvijyant/ProdigyInfotech-Cybersecurity-) | 5 cybersecurity tasks: encryption, packet analysis, keylogger detection, network scanning | Python · C++ · Wireshark |
 
