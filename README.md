@@ -21,12 +21,11 @@
 
 ## About Me
 
-- 🎓 B.Tech in **Computer Science (Cybersecurity & Digital Forensics)** — VIT Bhopal (2023–2027)
-- 🔐 Focused on **VAPT, digital forensics, incident response, and AI-integrated security tooling**
-- 💼 Completed internships at **Prodigy Infotech** and **CodeSoft** — gained hands-on penetration testing and secure SDLC experience
-- 🏅 Certified: **Microsoft Security Engineer Associate** | **IBM Introduction to Cybersecurity**
-- 🧠 Currently learning: **TryHackMe labs** · **Burp Suite web exploitation** · **Network forensics with Wireshark**
-- 📬 Reach me: jhanvijyant15201@gmail.com
+-  B.Tech in **Computer Science (Cybersecurity & Digital Forensics)** — VIT Bhopal (2023–2027)
+-  Focused on **VAPT, digital forensics, incident response, and AI-integrated security tooling*
+-  Certified: **Microsoft Security Engineer Associate** | **IBM Introduction to Cybersecurity**
+-  Currently learning: **TryHackMe labs** · **Burp Suite web exploitation** · **Network forensics with Wireshark**
+-  Reach me: jhanvijyant15201@gmail.com
 
 ---
 
@@ -60,7 +59,7 @@
 
 ---
 
-## 🔒 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -71,15 +70,15 @@
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- 🏅 **Microsoft Certified: Security Engineer Associate** — Microsoft (Jan 2025)
-- 🏅 **Introduction to Cybersecurity** — IBM (May 2026)
-- 🏅 **Generative AI with Microsoft Copilot** — Microsoft (Jan 2023)
+-  **Microsoft Certified: Security Engineer Associate** — Microsoft (Jan 2025)
+-  **Introduction to Cybersecurity** — IBM (May 2026)
+-  **Generative AI with Microsoft Copilot** — Microsoft (Jan 2023)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhanvijyant&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
